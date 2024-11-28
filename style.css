@@ -1,0 +1,42 @@
+h1{
+  color:yellow;
+}
+body{
+  background-color:WHITE;
+}
+.container1
+{
+  height:10vh;
+  background-color:blue;
+  text-align: center;
+}
+.container2
+{
+  background-color: skyblue;
+  text-align: center;
+}
+.container3{
+  background-color: white
+}
+h1{
+  color:orange;
+}
+.container4
+h1{
+  color:orange;
+}
+.container7
+button{
+  color: red;
+}
+.container8
+button{
+  color: blue;
+}
+.container9
+{
+  text-align: center;
+}
+button{
+  color:red;
+}
